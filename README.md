@@ -1,4 +1,4 @@
-<h1 align="center">Hello There👋, I'm Mohammad Asiful Hasan</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Asiful Hasan</h1>
 <h3 align="center"> Cloud Engineer</h3>
 <p style="text-align: justify;"> I am pursuing a career in cloud engineering with a strong focus on AWS, Linux and Docker. My next steps involve mastering Kubernetes and implementing CI/CD pipelines using Jenkins to enhance infrastructure as code practices. My ultimate goal is to use automation, scalability and optimization to help development and operations, ensuring efficient and seamless system performance.</p>
 <br><img align = "right" alt = "coding" width="300" src = "https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"></br>
@@ -16,6 +16,8 @@
 - 💬 Ask me about **AWS,Linux**
 
 - 📫 How to reach me **asifulhasan3179@gmail.com**
+
+- ⚡ Fun fact: AWS is like a toolbox in the **cloud**, whatever you need to build, scale or store there's a tool for that!☁️
 
 <h2 align="left"> Connect with me:</h2>
 <p align="left">
@@ -35,7 +37,7 @@
 <h3 align="left"> MY GitHub Stats </h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asifulhassan1706&show_icons=true&locale=en" alt="asifulhassan1706" /></p>
 
-<h3 align="left">🔥 Streak Stats </h3>
+<h3 align="left"> Streak Stats </h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asifulhassan1706&" alt="asifulhassan1706" /></p>
 
 <h3 align="left"> Activity Graph </h3>
