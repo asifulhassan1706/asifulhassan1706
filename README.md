@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Asiful Hasan</h1>
 <h3 align="center">Devops Engineer</h3>
-<p>Aspiring </p>
-<img align = "right" alt = "coding" width="300" src = "https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"> </br>
-
+<!-- <p>Aspiring </p> -->
+<br><img align = "right" alt = "coding" width="300" src = "https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"> </br>
 
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=asifulhassan1706&theme=onedark" />
