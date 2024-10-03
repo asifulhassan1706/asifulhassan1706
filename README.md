@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/dK68sbL/Github profile.png" alt="Git-Hub-Profile-Banner-Asif" border="0">
+<img src="https://github.com/asifulhassan1706/asifulhassan1706/blob/main/Github%20Profile.png" alt="Git-Hub-Profile-Banner-Asif" border="0">
 <h1 align="center">Hi 👋, I'm Mohammad Asiful Hasan</h1>
 <h3 align="center"> Cloud Engineer</h3>
 <p style="text-align: justify;"> I am pursuing a career in cloud engineering with a strong focus on AWS, Linux and Docker. My next steps involve mastering Kubernetes and implementing CI/CD pipelines using Jenkins to enhance infrastructure as code practices. My ultimate goal is to use automation, scalability and optimization to help development and operations, ensuring efficient and seamless system performance.</p>
