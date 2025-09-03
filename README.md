@@ -1,12 +1,15 @@
 <img src="https://github.com/asifulhassan1706/asifulhassan1706/blob/main/Github%20Profile.png" alt="Git-Hub-Profile-Banner-Asif" border="0">
+
 <!---------------------------------------------------------------------------------------->
 <!-- <h1 align="center">Hi 👋, I'm Mohammad Asiful Hasan</h1> -->
-<!---------------------------------------------------------------------------------------->
-<h2 align="center"> Cloud Engineer</h2>
+
 <!---------------------------------------------------------------------------------------->
 <!------------------------------Current Working Field------------------------------------>
 <h3 align="center">  <img src="https://readme-typing-svg.herokuapp.com?color=00b4d8&lines=DevOps+|+Linux+|+Git+|+AWS+|+Docker+|+Jenkins+|+Kubernetes;&center=true&width=900&height=45" alt="asif"></h3>
 </align=>
+
+<!---------------------------------------------------------------------------------------->
+<h2 align="center"> Cloud Engineer</h2>
 <p style="text-align: justify;"> I am pursuing a career in cloud engineering with a strong focus on AWS, Linux and Docker. My next steps involve mastering Kubernetes and implementing CI/CD pipelines using Jenkins to enhance infrastructure as code practices. My ultimate goal is to use automation, scalability and optimization to help development and operations, ensuring efficient and seamless system performance.</p>
 <br><img align = "right" alt = "coding" width="300" src = "https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"></br>
 
