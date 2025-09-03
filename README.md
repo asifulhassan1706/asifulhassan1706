@@ -1,24 +1,12 @@
 <img src="https://github.com/asifulhassan1706/asifulhassan1706/blob/main/Github%20Profile.png" alt="Git-Hub-Profile-Banner-Asif" border="0">
-<!-------------------------------Introduction-------------------------------------------->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=f97a09&lines=Hi!+I+am+Asiful+Hasan;Welcome+to+my+GitHub+Profile;&center=true&width=800&height=45" alt="Asif">
-<!---------------------------------------------------------------------------------------->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-</h1>
-<!------------------------------Profile Views & Followers------------------------------------>
-<p align="center">
-  <a href="https://github.com/AsifulHasan?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/AsifulHasan?style=flat&logo=github">
-  </a>
-  <a href="https://github.com/MacroPower/MacroPower">
-    <img src="https://komarev.com/ghpvc/?username=AsifulHasan" alt="page views" />
-  </a>
-</p>
-</align=>
 <!---------------------------------------------------------------------------------------->
 <!-- <h1 align="center">Hi 👋, I'm Mohammad Asiful Hasan</h1> -->
 <!---------------------------------------------------------------------------------------->
 <h2 align="center"> Cloud Engineer</h2>
+<!---------------------------------------------------------------------------------------->
+<!------------------------------Current Working Field------------------------------------>
+<h3 align="center">  <img src="https://readme-typing-svg.herokuapp.com?color=00b4d8&lines=DevOps+|+Linux+|+Git+|+AWS+|+Docker+|+Jenkins+|+Kubernetes;&center=true&width=900&height=45" alt="asif"></h3>
+</align=>
 <p style="text-align: justify;"> I am pursuing a career in cloud engineering with a strong focus on AWS, Linux and Docker. My next steps involve mastering Kubernetes and implementing CI/CD pipelines using Jenkins to enhance infrastructure as code practices. My ultimate goal is to use automation, scalability and optimization to help development and operations, ensuring efficient and seamless system performance.</p>
 <br><img align = "right" alt = "coding" width="300" src = "https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"></br>
 
