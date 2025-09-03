@@ -9,7 +9,7 @@
 <!------------------------------Profile Views & Followers------------------------------------>
 <p align="center">
   <a href="https://github.com/PritamChakrabortyShuvo?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MohammadAsifulHasan?style=flat&logo=github">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/asifulhassan1706?style=flat&logo=github">
   </a>
   <a href="https://github.com/MacroPower/MacroPower">
     <img src="https://komarev.com/ghpvc/?username=MohammadAsifulHasan" alt="page views" />
