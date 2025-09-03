@@ -12,7 +12,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/asifulhassan1706?style=flat&logo=github">
   </a>
   <a href="https://github.com/MacroPower/MacroPower">
-    <img src="https://komarev.com/ghpvc/?username=MohammadAsifulHasan" alt="page views" />
+    <img src="https://komarev.com/ghpvc/?username=asifulhassan1706" alt="page views" />
   </a>
 </p>
 </align=>
