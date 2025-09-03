@@ -1,6 +1,7 @@
 <img src="https://github.com/asifulhassan1706/asifulhassan1706/blob/main/Github%20Profile.png" alt="Git-Hub-Profile-Banner-Asif" border="0">
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=000000 &lines=Hi!!+I+am+Mohammad+Asiful+Hasan;Welcome+to+my+GitHub+Profile;&center=true&width=800&height=45" alt="pritam">
+  <img src="https://readme-typing-svg.herokuapp.com?
+color=000000 &lines=Hi!!+I+am+Mohammad+Asiful+Hasan;Welcome+to+my+GitHub+Profile;&center=true&width=800&height=45" alt="asif">
 <!---------------------------------------------------------------------------------------->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </h1>
